@@ -4,5 +4,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 
-######第一次修改
+##### .gitignore鏂囦欢鐢ㄦ潵蹇界暐鐗规畩鏂囦欢
 ###fen zi AND
